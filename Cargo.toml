@@ -9,5 +9,5 @@ readme = "./README.md"
 license-file = "./LICENSE"
 license = "MIT"
 description = "A Rust program that finds and copies the activate script path of a virtual environment to the system clipboard."
-keywords = ["apirra","virtualenv", "wayland", "clipboard", "python", "env"]
+keywords = ["apirra","virtualenv", "wayland", "clipboard", "python"]
 categories = ["command-line-utilities"]
