@@ -21,6 +21,7 @@ Run the program, and if a virtual environment is found, the path to its `activat
 
 ```bash
 source /path/to/virtualenv/bin/activate
+```
 
 ## Requirements
 - rust: for compiling the program
