@@ -11,7 +11,7 @@ A Rust program that finds and copies the `activate` script path of a `python vir
 ## Installation
 
 1. Install Rust: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
-2. Clone the repo: `git clone https://github.com/your-username/apira.git`
+2. Clone the repo: `git clone https://github.com/NerdNinja420/apira.git`
 3. Build: `cargo build --release`
 4. Run: `cargo run`
 
