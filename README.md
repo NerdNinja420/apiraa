@@ -1,6 +1,6 @@
-# Apira
+# Apiraa
 
-A Rust program that finds and copies the `activate` script path of a virtual environment to the system clipboard for easy activation.
+A Rust program that finds and copies the `activate` script path of a `python virtual environment` to the system clipboard for easy activation.
 
 ## Features
 
@@ -24,6 +24,7 @@ source /path/to/virtualenv/bin/activate
 ```
 
 ## Requirements
+
 - rust: for compiling the program
 - wl-copy: for clipboard operation on Wayland. 
 
