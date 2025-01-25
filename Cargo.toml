@@ -1,6 +1,6 @@
 [package]
 name = "apiraa"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["NerdNinja <NerdNinja420@gmail.com>"]
 repository = "https://github.com/NerdNinja420/apiraa"
