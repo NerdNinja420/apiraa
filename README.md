@@ -1,4 +1,4 @@
-# Apiraa
+# apira
 
 A Rust program that finds and copies the `activate` script path of a `python virtual environment` to the system clipboard for easy activation.
 
